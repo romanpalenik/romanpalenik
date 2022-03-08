@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Plasmoxy.Plasmoxy) <a href="https://www.linkedin.com/in/plasmoxy/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![Visitor]("https://visitor-badge.laobi.icu/badge?page_id=romanpalenik.romanpalenik") <a href="https://www.linkedin.com/in/roman-p%C3%A1len%C3%ADk-8b9126232/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanpalenik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
