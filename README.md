@@ -5,11 +5,11 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/peterplevko" target="blank"><img src="https://img.shields.io/twitter/follow/peterplevko?logo=twitter&style=for-the-badge" alt="peterplevko" /></a> </p>
+<p align="left"> <a href="https://twitter.com/RomanPalenik" target="blank"><img src="https://img.shields.io/twitter/follow/romanpalenik?logo=twitter&style=for-the-badge" alt="peterplevko" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://peterplevko.github.io/](https://peterplevko.github.io/)
+- 👨‍💻 All of my projects are available at [https://github.com/romanpalenik](https://github.com/romanpalenik)
 
-- 📫 How to reach me **pplevko@gmail.com**
+- 📫 How to reach me **roman.palenik3@gmail.com**
 
 <!--
 **romanpalenik/romanpalenik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
