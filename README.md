@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Visitor]("https://visitor-badge.laobi.icu/badge?page_id=romanpalenik.romanpalenik") <a href="https://www.linkedin.com/in/roman-p%C3%A1len%C3%ADk-8b9126232/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=romanpalenik.romanpalenik) <a href="https://www.linkedin.com/in/roman-p%C3%A1len%C3%ADk-8b9126232/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanpalenik&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=romanpalenik&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanpalenik&hide=HTML,CSS,TeX,Makefile&layout=compact&theme=tokyonight&langs_count=10&exclude_repo=plasmoxy.github.io,Plasmoxy,opencv-java-tutorials,javalin,javafxopencv-started,ionic-react-detail-tab,InsanelyCheapElectronics,Hivemind,heroku-maggit,hello-world,DevMemories,denvs2018,arshiamidos,AIChamber,AestheticIndexer,Cataclysm,TheMachine)
